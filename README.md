@@ -1,11 +1,32 @@
+# Hi there, I'm Kartikeya Kotkar! 👋
 
-- 👋 Hi, I’m @KartikeyaKotkar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, C++, C, Java
+🎓 **Student** | 💻 Python, Flask, R, Java, C++
 
-<!--
-[![kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikeyaKotkar&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaKotkar&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp)](https://skillicons.dev)
+## 🚀 About Me
+
+I'm a passionate student who loves to build, learn, and solve real-world problems with code. Whether it's backend magic with Flask and Spring Boot, data wrangling in Python and R, or software design in Java, C++, and Qt, I'm always up for a challenge.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, Java, C++, R
+- **Frameworks:** Flask, Spring Boot, Hibernate, Qt (C++)
+- **Tools:** Git, VSCode, Jupyter, and more
+
+---
+
+## 🌟 Favorite Projects
+
+- [**pymonitor**](https://github.com/KartikeyaKotkar/pymonitor): A project close to my heart—check it out for smart monitoring solutions!
+- [**snapnote**](https://github.com/KartikeyaKotkar/snapnote): My take on making note-taking smarter and easier.
+
+---
+
+## 💡 Quote I Live By
+
+> "If you wanna win a lottery, you have to make the money to buy a ticket."
+
+---
