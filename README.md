@@ -1,6 +1,6 @@
 # Hi there, I'm Kartikeya Kotkar! 👋
 
-🎓 **Student** | 💻 Python, Flask, R, Java, C++
+🎓 **Student** | 💻 Python, R, Java, C++
 
 ---
 
