@@ -1,3 +1,4 @@
+
 ```
 student | developer
 ```
@@ -7,7 +8,7 @@ student | developer
 ### currently
 
 building backend systems  
-python, c++, go
+python, c++, go  
 learning through doing
 
 ### stack
