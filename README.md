@@ -1,21 +1,16 @@
+## currently building things i don't fully understand yet
 
+```txt
+python · go
 ```
-student | developer
+
+## the bugs are the curriculum
+
+### stack
+```txt
+fastapi · systems · whatever the problem needs
 ```
 
 ---
 
-### currently
-
-building backend systems  
-python, c++, go  
-learning through doing
-
-### stack
-
-flask • fastapi • low-level systems
-
-
-```
-code → break → fix → learn
-```
+**understand → build → break → understand more**
