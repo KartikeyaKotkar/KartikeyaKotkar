@@ -12,5 +12,3 @@ fastapi · systems · whatever the problem needs
 ```
 
 ---
-
-**understand → build → break → understand more**
