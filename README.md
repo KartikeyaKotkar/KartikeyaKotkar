@@ -3,9 +3,6 @@
 ```txt
 python · go
 ```
-
-## the bugs are the curriculum
-
 ### stack
 ```txt
 fastapi · systems · whatever the problem needs
